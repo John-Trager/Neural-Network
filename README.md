@@ -7,4 +7,5 @@ Numpy module
 * link to docs: https://numpy.org
 
 # Preview
+* trained network to ouput [0,1,1,0] based on training data
 ![screenshot](nn.png)
